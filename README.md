@@ -1,1 +1,1 @@
-# EDI_Formatter_plugin
+ # EDI_Formatter_plugin for Notepad++
